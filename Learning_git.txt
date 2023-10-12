@@ -1,2 +1,18 @@
 Learning Git
 --------------
+
+initializing git
+> git init 
+
+check current branch 
+>git status
+
+commit changes
+>git add <file name>
+>git commit -m "write anything here"
+
+see all the commits
+>git log 
+
+config your git
+>
