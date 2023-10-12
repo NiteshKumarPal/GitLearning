@@ -42,7 +42,15 @@ cat .git/config
 see all local git config 
 >git config --local -l
 
+for seeing modified changes
+>git diff 
 
+for saving changes in stash
+>git stash
+>git stash apply 
+
+
+>git reset
 
 
 
