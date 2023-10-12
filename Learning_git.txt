@@ -49,8 +49,15 @@ for saving changes in stash
 >git stash
 >git stash apply 
 
+undo till commit hash
+>git reset --hard HEAD
 
->git reset
+create branch
+>git branch <branch name>
+
+switch branch
+>git checkout <branch name>
+
 
 
 
