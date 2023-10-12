@@ -58,8 +58,11 @@ create branch
 switch branch
 >git checkout <branch name>
 
+create and switch both by single command
+>git checkout -b develop_backup
 
-
+merge branch, go to host branch first 
+>git merge <branch name>
 
 
 
