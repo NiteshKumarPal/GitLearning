@@ -65,6 +65,15 @@ merge branch, go to host branch first
 >git merge <branch name>
 
 
+cherry-pick command
+>git chery-pick commit-hash
+
+create tag for releases
+>git tag <tag name>
+
+now we are learning remote push and pull
+>git push origin <branch name>
+
 
 
 
