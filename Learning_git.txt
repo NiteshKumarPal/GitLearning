@@ -74,6 +74,7 @@ create tag for releases
 now we are learning remote push and pull
 >git push origin <branch name>
 
+now we are learning how to create PR
 
 
 
