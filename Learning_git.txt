@@ -73,10 +73,16 @@ create tag for releases
 
 now we are learning remote push and pull
 >git push origin <branch name>
+>git pull origin <branch name>
 
 now we are learning how to create PR
 
+for fetching remote branch in local machine
+>git fetch origin <branch name>
+>git checkout <branch name>
 
+to see all the local and remote branches
+>git branch -a
 
 
 
